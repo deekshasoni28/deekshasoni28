@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programmer.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 👋 Hi, I'm Deeksha Soni
 
@@ -42,6 +42,7 @@
 
 ## 🌐 Connect with me:
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/deekshasoni28)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/deeksha_soni28?igsh=MWJubmw5aG01dTlxNw==)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:soni.deeksha2806@gmail.com)
