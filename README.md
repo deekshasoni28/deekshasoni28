@@ -46,3 +46,5 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/deekshasoni28)
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/deeksha_soni28?igsh=MWJubmw5aG01dTlxNw==)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:soni.deeksha2806@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=deekshasoni28&label=Profile%20views&color=0e75b6&style=flat)
