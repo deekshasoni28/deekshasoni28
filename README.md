@@ -50,3 +50,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=deekshasoni28&label=Profile%20views&color=0e75b6&style=for-the-badge">
 </p>
+
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=deekshasoni28&theme=radical)
