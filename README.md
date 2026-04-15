@@ -1,57 +1,85 @@
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 👋 Hi, I'm Deeksha Soni
-
-- 💻 I’m currently working on: Development & Personal Projects  
-- 🌱 I’m currently learning: Data Structures & Algorithms (DSA) & JavaScript  
-- 👯 I’m looking to collaborate on: Open Source & Projects  
-- 🤔 I’m looking for help with: Backend Development & Problem Solving  
-- 💬 Ask me about: C, C++, Python, HTML, CSS, JavaScript  
-- ⚡ Fun fact: I enjoy solving problems and designing creatives 🎨  
-
----
-
-## 🚀 Skills
-
-### 👩‍💻 Programming Languages:
-![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
-
-### 🌐 Web Development:
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript)
-
-### 🛠️ Tools & Platforms:
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-grey?style=flat&logo=github)
-![Canva](https://img.shields.io/badge/-Canva-blue?style=flat&logo=canva)
-![MS Excel](https://img.shields.io/badge/-Excel-green?style=flat&logo=microsoft-excel)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-orange?style=flat&logo=microsoft-powerpoint)
-
----
-
-## 🌟 Soft Skills:
-- ⚡ Fast Learner  
-- 🧠 Problem Solving  
-- 🤝 Teamwork  
-- 🗣️ Communication  
-
----
-
-## 🌐 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/deekshasoni28)
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat&logo=instagram)](https://www.instagram.com/deeksha_soni28?igsh=MWJubmw5aG01dTlxNw==)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:soni.deeksha2806@gmail.com)
+<h1 align="center">Hi 👋, I'm Deeksha Soni</h1>
+<h3 align="center">🚀 B.Tech Student | 💻 Developer | 🌱 Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deekshasoni28&label=Profile%20views&color=0e75b6&style=for-the-badge">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+Learner;Web+Developer;Consistent+Girl+🔥;Future+Engineer&center=true&width=500&height=45">
 </p>
 
+---
 
-## 🔥 GitHub Streak
+## 🙋‍♀️ About Me
+- 🔭 I’m currently working on **Development & Personal Projects**
+- 🌱 I’m learning **Data Structures & Algorithms + JavaScript**
+- 🤝 I’m looking to collaborate on **Open Source Projects**
+- 💡 Ask me about **C, C++, Python, HTML, CSS, JS**
+- 🎯 Goal: **Become a Skilled Software Developer**
+- ⚡ Fun fact: *I love solving problems & designing creatives*
 
-![GitHub Streak](https://streak-stats.demolab.com?user=deekshasoni28&theme=radical)
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,canva" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=deekshasoni28&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deekshasoni28&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshasoni28&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deekshasoni28&theme=react-dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/in/deeksha-soni-516236330"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://github.com/deekshasoni28"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+<a href="https://instagram.com/deeksha_soni28"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" /></a>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=deekshasoni28&label=Profile%20Views&color=blue&style=flat" />
+</p>
+
+---
+
+## 💬 Quote
+
+<p align="center">
+✨ "Consistency is more powerful than motivation." ✨
+</p>
